@@ -21,3 +21,9 @@ A structured approach to integrating security capabilities into your engineering
 
 [**Alice and Bob Learn Application Security**](https://www.wiley.com/en-se/Alice+and+Bob+Learn+Application+Security-p-9781119687405) (2020)   
 Alice and Bob Learn Application Security is an accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development. This book covers all the basic subjects such as threat modeling and security testing, but also dives deep into more complex and advanced topics for securing modern software systems and architectures
+
+
+## Frameworks
+
+[**OWASP SAMM**](https://owaspsamm.org)  
+SAMM provides an effective and measurable way for all types of organizations to analyze and improve their software security posture.
