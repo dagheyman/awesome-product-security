@@ -17,6 +17,9 @@
 [**The Art of Software Security Assessment**](https://www.pearson.com/us/higher-education/program/Dowd-Art-of-Software-Security-Assessment-The-Identifying-and-Preventing-Software-Vulnerabilities/PGM306255.html) (2007)  
 The Art of Software Security Assessment covers the full spectrum of software vulnerabilities in both UNIX/Linux and Windows environments. It demonstrates how to audit security in applications of all sizes and functions, including network and Web software. Moreover, it teaches using extensive examples of real code drawn from past flaws in many of the industry's highest-profile applications.
 
+[**Securing DevOps**](https://www.manning.com/books/securing-devops) (2018)   
+Securing DevOps explores how the techniques of DevOps and security should be applied together to make cloud services safer. This introductory book reviews the latest practices used in securing web applications and their infrastructure and teaches you techniques to integrate security directly into your product.
+
 [**DevSecOps**](https://rethinkpress.com/books/devsecops/) (2020)  
 A structured approach to integrating security capabilities into your engineering process is an essential requirement for producing secure software without compromising the integrity of the DevOps framework.  
 
