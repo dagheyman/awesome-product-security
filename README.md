@@ -29,9 +29,11 @@ A structured approach to integrating security capabilities into your engineering
 [**Alice and Bob Learn Application Security**](https://www.wiley.com/en-se/Alice+and+Bob+Learn+Application+Security-p-9781119687405) (2020)   
 Alice and Bob Learn Application Security is an accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development. This book covers all the basic subjects such as threat modeling and security testing, but also dives deep into more complex and advanced topics for securing modern software systems and architectures
 
-[**Security Engineering**](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817)    (2020)   
+[**Security Engineering**](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817)  (2020)   
 In *Security Engineering: A Guide to Building Dependable Distributed Systems, Third Edition* Cambridge University professor Ross Anderson updates his classic textbook and teaches readers how to design, implement, and test systems to withstand both error and attack.  
 
+[**Designing Secure Software**](https://nostarch.com/designing-secure-software) (2021)   
+*Designing Secure Software* consolidates Loren Kohnfelder’s more than twenty years of experience into a concise, elegant guide to improving the security of technology products. Written for a wide range of software professionals, it emphasizes building security into software design early and involving the entire team in the process.
 
 ## Frameworks
 
