@@ -45,4 +45,5 @@ Building Security In Maturity Model (BSIMM) helps organizations plan, implement,
 
 
 ## See also
-[paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
+[paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
+[TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)
