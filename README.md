@@ -1,4 +1,4 @@
-*WIP, PRs always welcome. Goal is to collect good resources on product security engineering.*
+# Awesome Product Security
 
 ## Articles
 
