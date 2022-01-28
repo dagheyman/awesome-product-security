@@ -6,6 +6,7 @@
 [David Wachtfogel: AppSec: Where InfoSec meets ProdSec](https://www.linkedin.com/pulse/appsec-where-infosec-meets-prodsec-david-wachtfogel/) (2018)  
 [lcamtuf: Getting product security engineering right](https://lcamtuf.blogspot.com/2018/02/getting-product-security-engineering.html) (2018)  
 [Julian Cohen: Product Security Framework](https://hockeyinjune.medium.com/product-security-14127b5838ba) (2018)  
+[Leif Dreizler: Shifting Engineering Right: What security engineers can learn from DevSecOps](https://segment.com/blog/shifting-engineering-right/) (2021)  
 [Kelly Shortridge: The Security Obstructionism (SecObs) Market](https://swagitda.com/blog/posts/the-security-obstructionism-secobs-market/) (2022)
 
 ## White papers
