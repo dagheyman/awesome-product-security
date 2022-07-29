@@ -13,6 +13,10 @@
 
 [SANS: Corporate vs. Product Security](https://www.sans.org/white-papers/34237/) (2013)  
 
+## Training
+
+[SecDim - Learn AppSec the fun way](https://secdim.com)
+
 ## Talks
 
 [Astha Singhal: Product Security lessons from Incident Response](https://www.youtube.com/watch?v=g8mF6pfo5BU) (2020)
