@@ -41,7 +41,7 @@ Alice and Bob Learn Application Security is an accessible and thorough resource 
 [**Security Engineering**](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817)  (2020)   
 In *Security Engineering: A Guide to Building Dependable Distributed Systems, Third Edition* Cambridge University professor Ross Anderson updates his classic textbook and teaches readers how to design, implement, and test systems to withstand both error and attack.  
 
-[**Building Secure & Reliable Systems**](https://google.github.io/building-secure-and-reliable-systems/) (2020)
+[**Building Secure & Reliable Systems**](https://google.github.io/building-secure-and-reliable-systems/) (2020)   
 Can a system be considered truly reliable if it isn't fundamentally secure? Or can it be considered secure if it's unreliable? Security is crucial to the design and operation of scalable systems in production, as it plays an important part in product quality, performance, and availability. In this book, experts from Google share best practices to help your organization design scalable and reliable systems that are fundamentally secure.
 
 [**Designing Secure Software**](https://nostarch.com/designing-secure-software) (2021)   
